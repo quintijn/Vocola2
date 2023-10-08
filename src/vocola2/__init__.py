@@ -1,12 +1,6 @@
 """Vocola"""
 
-__version__ = '3.1.3'
-## now in versions 3.1. series
-# __version__ = '2.9.6'  # sendkeys again from Vocola, but via dtactions.
-# __version__ = '2.9.5'  # make ready for improved pip
-#             '2.9.4'  # bugfix, check for correct directories (VocolaUserDirectory, VocolaGrammarsDirectory)
-#             '2.9.3'  # bugfix, typo
-#             '2.9.2'  # bugfix, normpath changed into abspath
+c__version__ = '3.1.7'    # oct 8, 23, removed {shift} with send_input
 #             '2.9.1'  # initial version with python3
 
 """utility functions, to get calling directory of module (in site-packages),
