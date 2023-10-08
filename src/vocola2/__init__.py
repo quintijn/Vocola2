@@ -1,7 +1,7 @@
 """Vocola"""
 
-c__version__ = '3.1.7'    # oct 8, 23, removed {shift} with send_input
-#             '2.9.1'  # initial version with python3
+__version__ = '3.1.7'    # oct 8, 23, removed {shift} with send_input
+#             '2.9.1'    # initial version with python3
 
 """utility functions, to get calling directory of module (in site-packages),
 
